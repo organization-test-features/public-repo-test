@@ -1,3 +1,2 @@
 # public-repo-test
-public repo to check repository visibility
-fsfsfdlflsdlfgdfgdfg
+pushed directly to main
